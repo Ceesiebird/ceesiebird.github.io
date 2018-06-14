@@ -12,3 +12,6 @@ p {
 h1 {
    color: white;
 }
+table, th, td, {
+   color: #00cc00; 
+}
